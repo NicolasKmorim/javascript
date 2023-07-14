@@ -1,0 +1,27 @@
+@charset "utf-8";
+body{
+    background-color: aqua;
+}
+header{
+    text-align: center;
+}
+main{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    text-align: justify;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 5px 15px black
+}
+footer{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+div.div1{
+   font-size: 30px;
+}
+div.div2{
+    font-size: 30px;
+}
