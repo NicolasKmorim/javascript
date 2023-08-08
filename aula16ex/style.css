@@ -17,6 +17,9 @@ section{
 div{
     padding: 5px;
 }
+select{
+    width: 100px;
+}
 footer{
     color: white;
     background-color: black;
